@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:islamy_app/ui/home/home_screen.dart';
 
 void main(){
-  runApp(Myapp());
+  runApp(MyApp());
 }
-class Myapp extends StatelessWidget {
-  const Myapp({super.key});
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
